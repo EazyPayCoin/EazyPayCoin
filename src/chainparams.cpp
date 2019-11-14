@@ -98,7 +98,7 @@ public:
         nLastPOWBlock = 200;
         nModifierUpdateBlock = 1; // we use the version 2 for EZPAY
 
-        const char* pszTimestamp = "EazyPayZA is live - zabtc 29/08/2019";
+        const char* pszTimestamp = "EazyPayCoin is live - zabtc 29/08/2019";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
