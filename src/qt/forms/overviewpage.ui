@@ -828,7 +828,7 @@
                           </font>
                          </property>
                          <property name="text">
-                          <string>Coming soon</string>
+                          <string notr="true">&lt;a href=&quot;https://crex24.com/exchange/EZPAY-BTC/&quot;&gt;https://crex24.com/exchange/EZPAY-BTC/&lt;/a&gt;</string>
                          </property>
                          <property name="alignment">
                            <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
